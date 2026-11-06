@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.joffile.twa",
+        "sha256_cert_fingerprints": ["19:C5:D8:72:E1:66:0A:17:1B:7F:56:5E:58:29:3B:D4:6B:4B:D5:92:2E:ED:02:5B:EA:DF:72:48:D9:71:15:0C"]
+      }
+    }]
